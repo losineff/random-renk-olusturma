@@ -1,0 +1,21 @@
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\ogrenci\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Aidata\Desktop\havva\WindowsFormsApplication10\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Aidata\Desktop\havva\WindowsFormsApplication10\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Aidata\Desktop\havva\WindowsFormsApplication10\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+I:\nesne tabanlı programlama\random renk oluşturma (trackbar)\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
